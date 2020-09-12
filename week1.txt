@@ -1,0 +1,24 @@
+---
+- How does a rubber ducky work?
+    """
+    The Rubber Ducky uses keystroke injection technology to run malicious code 
+    quickly and easily on a device—serving as an unsuspecting way to steal 
+    passwords, drop malware, install “backdoors” into systems, exfiltrate data, 
+    and more. Attackers can leverage USB attacks by leaving USB drives behind 
+    and waiting for users to pick them up, sending them to their targets, 
+    or by entering a physical establishment, using social engineering tactics 
+    to gain access, and then plug the drives into systems themselves.
+    """
+
+    - Explain in detail to your boss (low level/technical)
+    A Rubber Ducky is a hacking tool (normaly disquised as a usb drive)
+    that is able to keystroke injection onto a computer upon insertion. This
+    allows preplanned attacks to be executed via pre-written out scripts 
+    that are fastly and automatically typed into the victim computer with the
+    physical connection being unable to be differentiated from manual input 
+    via user.
+
+    - Explain it to your mom or high schooler (high level)
+
+
+    - Find a news article/blog post where a APT or criminal used a malicious USB
