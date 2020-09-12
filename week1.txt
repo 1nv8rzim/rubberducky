@@ -19,6 +19,13 @@
     via user.
 
     - Explain it to your mom or high schooler (high level)
+    A Rubber Ducky is a hacking tool that will normally look like a usb,
+    however when plugged in will run a program that can compromise what it is
+    plugged into. Rubber Ducky's work almost like keyboard and use 'keystroke
+    injection' where it impersonates a keyboard and sends keystrokes to the
+    computer as if it was you typing on your computer. This means that anything
+    that can be done if the hacker had keyboard access to your computer can be 
+    done by an automated script.
 
 
     - Find a news article/blog post where a APT or criminal used a malicious USB
