@@ -29,3 +29,9 @@
 
 
     - Find a news article/blog post where a APT or criminal used a malicious USB
+    Not a criminal or APT but a story about a physical pentest done by mother
+    of a pentester who wanted to try pentest and used rubber ducky for gaining
+    persistence. (Mother had not hacking experience at all)
+    https://www.wired.com/story/hackers-mom-broke-into-prison-wardens-computer/
+
+    
